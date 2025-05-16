@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 mongoose.connect(
-  "mongodb+srv://subodhsingh3477:FridaY7880@cluster0.k5y3sbt.mongodb.net/"
+  "your url"
 );
 
 // creating the userschema
