@@ -1,3 +1,3 @@
 module.exports = {
-    JWT_SECRET: "subodhsecret"
+    JWT_SECRET: "your secret key"
 }
